@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            Hoang
 tagline:          'Personal blog of a nerd at heart'
-description:      'Personal blog of a nerd at heart <a href="https://twitter.com/anhiliate" target="_blank">@anhiliate</a>.'
+description:      'Personal blog of a nerd at heart. <a href="https://twitter.com/anhiliate" target="_blank">@anhiliate</a>'
 url:              https://anhiliate.github.io
 baseurl:          /
 
