@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example content
+title: Move pdf files into sub folders based on number of pages or page size using C#.NET and iTextSharp
 ---
 
 Using iTextSharp, you could easily automate tasks like sorting pdfs based on number of pages or paper size.
