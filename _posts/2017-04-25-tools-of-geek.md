@@ -32,5 +32,8 @@ Angular 2 Development
   * Format code: Shift + Alt + F
   * Light bulb quick fix: Ctrl + .
 
+XML / XSD / WSDL Visualization
 
-  
+* [XMLPad](http://xmlpad-mobile.com/#WmHelp)
+* [XSDDiagram](http://regis.cosnier.free.fr/?page=XSDDiagram)
+  Source code is available on Github (https://github.com/dgis/xsddiagram)
